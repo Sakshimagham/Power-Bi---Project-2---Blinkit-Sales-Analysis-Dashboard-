@@ -3,7 +3,7 @@
 ### Project Title : Blinkit Sales Analysis Dashboard  
 
 ### Overview :  
-This project demonstrates a *sales analysis dashboard* built in *Power BI* for Blinkit, an online quick-commerce platform. The dashboard provides an intuitive and interactive representation of sales performance, customer preferences, and outlet-specific insights.  
+This project demonstrates a sales analysis dashboard built in *Power BI* for Blinkit, an online quick-commerce platform. The dashboard provides an intuitive and interactive representation of sales performance, customer preferences, and outlet-specific insights.  
 
 ### Key Features and Insights :  
 1. Sales Performance Summary :  
@@ -32,5 +32,4 @@ This project demonstrates a *sales analysis dashboard* built in *Power BI* for B
 
 ###  Visualization :
 
-![Image](https://github.com/user-attachments/assets/3b1efce1-a2ae-4873-bc8e-6cfa07da11d5)
 
