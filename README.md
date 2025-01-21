@@ -31,5 +31,6 @@ This project demonstrates a sales analysis dashboard built in *Power BI* for Bli
 - Data Cleaning : Preprocessed raw data for better visualization insights
 
 ###  Visualization :
+![Image](https://github.com/user-attachments/assets/e2b9fd14-3312-424b-b198-57a69d58405b)
 
 
