@@ -32,3 +32,5 @@ This project demonstrates a *sales analysis dashboard* built in *Power BI* for B
 
 ###  Visualization :
 
+![Image](https://github.com/user-attachments/assets/3b1efce1-a2ae-4873-bc8e-6cfa07da11d5)
+
